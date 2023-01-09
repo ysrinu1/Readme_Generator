@@ -14,7 +14,7 @@
   * [Contributing](#contributing)
   * [Credits](#credits)
   * [License](#license)
-  ![GitHub license](https://img.shields.io/badge/license-This application is covered under the MIT License agreement. You can find its details, as well as all other available licensing, below:-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-This application is covered under the MIT License agreement. You can find its details, as well as all other available licensing: GNU AGPLv3 , GNU GPLv3 ,Mozilla Public License 2.0 ,Apache License 2.0 ,MIT License ,Boost Software License 1.0 ,The Unlicense-blue.svg)
   
 ## Installation
 
@@ -23,4 +23,4 @@ npm i
 ```
 
 ## license 
-    This project is licensed under the This application is covered under the MIT License agreement. You can find its details, as well as all other available licensing, below: license 
+    This project is licensed under the This application is covered under the MIT License agreement. You can find its details, as well as all other available licensing: GNU AGPLv3 , GNU GPLv3 ,Mozilla Public License 2.0 ,Apache License 2.0 ,MIT License ,Boost Software License 1.0 ,The Unlicense license 
