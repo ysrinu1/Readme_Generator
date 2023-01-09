@@ -1,6 +1,7 @@
-# Readme-Generator-PRO
+# MyReadmeGenerator
 
 ## Description
+
 This application will automatically generate a customized professional-grade readme file, based on the information that the end user provides.
 
 # Table of Contents
@@ -32,7 +33,7 @@ This application will automatically generate a customized professional-grade rea
 # Application Demo Video
 [![Demonstration Video](https://github.com/ysrinu1/Readme_Generator/blob/main/media/Readmegeneratorgithub.png)](https://www.youtube.com/watch?v=faCZfdDnjV0)
 
-## [Link to readme created in demo video!](./MYREADME.md)
+## [Link to readme created in demo video!](./media/MyReadmeDemo_Record1.mov)
 ---
 # User Story
 
